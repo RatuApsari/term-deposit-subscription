@@ -10,8 +10,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 Source Dataset : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing  
 
 ## Technologies
-Language : Python
-Tools : Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib
-Algorithm : Support Vector Machine, XG Boost, Bernoulli Naive Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, Decision Tree
+* Language : Python
+* Tools : Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib
+* Algorithm : Support Vector Machine, XG Boost, Bernoulli Naive Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, Decision Tree
 
 ## Deployment
